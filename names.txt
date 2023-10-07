@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,swang2297,Wang,Shuangyu
 employee,lzhang699,Zhang,Lanxi
